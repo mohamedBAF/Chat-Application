@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mohamedBAF/Chat-Application/static/css/main.d74991c9.chunk.css",
+    "main.js": "/mohamedBAF/Chat-Application/static/js/main.d895c25e.chunk.js",
+    "main.js.map": "/mohamedBAF/Chat-Application/static/js/main.d895c25e.chunk.js.map",
+    "runtime-main.js": "/mohamedBAF/Chat-Application/static/js/runtime-main.cd8cfbde.js",
+    "runtime-main.js.map": "/mohamedBAF/Chat-Application/static/js/runtime-main.cd8cfbde.js.map",
+    "static/js/2.bad7e98d.chunk.js": "/mohamedBAF/Chat-Application/static/js/2.bad7e98d.chunk.js",
+    "static/js/2.bad7e98d.chunk.js.map": "/mohamedBAF/Chat-Application/static/js/2.bad7e98d.chunk.js.map",
+    "index.html": "/mohamedBAF/Chat-Application/index.html",
+    "precache-manifest.02b595b0d0345f59c0cc9061a4a49bde.js": "/mohamedBAF/Chat-Application/precache-manifest.02b595b0d0345f59c0cc9061a4a49bde.js",
+    "service-worker.js": "/mohamedBAF/Chat-Application/service-worker.js",
+    "static/css/main.d74991c9.chunk.css.map": "/mohamedBAF/Chat-Application/static/css/main.d74991c9.chunk.css.map",
+    "static/js/2.bad7e98d.chunk.js.LICENSE.txt": "/mohamedBAF/Chat-Application/static/js/2.bad7e98d.chunk.js.LICENSE.txt",
+    "static/media/favicon copy.ico": "/mohamedBAF/Chat-Application/static/media/favicon copy.05ea36a5.ico",
+    "static/media/logo.svg": "/mohamedBAF/Chat-Application/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd8cfbde.js",
+    "static/js/2.bad7e98d.chunk.js",
+    "static/css/main.d74991c9.chunk.css",
+    "static/js/main.d895c25e.chunk.js"
+  ]
+}
